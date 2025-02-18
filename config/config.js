@@ -81,7 +81,7 @@ var config = {
         ["./images/portfolio/blog.png", "https://blog.unfinished.top/", "个人博客", "记录了一些学习笔记"],
         ["./images/portfolio/paper.png", "https://github.com/Sixiang-Wang/AllPaperEngine-WebApplication", "学术成果分享系统", "完成后端接口，完成前端大量网页，独立搭建后台"],
         ["./images/portfolio/iMusic.png", "https://github.com/Sixiang-Wang/iMusic/tree/master", "音乐交流网站", "负责全部后端，并独立完成后台管理系统"],
-        ["./images/portfolio/HelloKnight.png", "https://github.com/Sixiang-Wang/HelloKnight-v3.1-unityFile/tree/master", "Hello Knight", "模仿空洞骑士独立制作的类银河城游戏"],
+        ["./images/portfolio/HelloKnight.png", "https://www.bilibili.com/video/BV1uu411w7Fx", "Hello Knight", "模仿空洞骑士独立制作的类银河城游戏"],
         ["./images/portfolio/clock.png", "https://github.com/Sixiang-Wang/Tainaka-Ritsu-InkBoard", "实地提醒小挂件", "完成了单片机的软件部分代码"],
         ["./images/portfolio/Compiler.png", "https://github.com/Sixiang-Wang/BUAA-Compiler", "编译器设计", "使用Java完成了对C语言文法的子集完成从词法分析、语法分析、错误处理到目标代码生成等编译过程的编译器的实现，生成MIPS代码"],
         ["./images/portfolio/BUAACommunity.png", "https://github.com/Sixiang-Wang/BUAACommunity", "校园社区平台", "大二上学期初学Java完成的小型项目"],
